@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Image transformations -->
+    <dimen name="background_image_rotation">90</dimen>
+
+    <!-- Views dimensions -->
+    <dimen name="width_handled_by_weight">0dp</dimen>
+    <dimen name="margin_between_buttons">24dp</dimen>
+    <dimen name="top_margin">16dp</dimen>
+    <dimen name="weight_one">1</dimen>
+
+    <!-- Font sizes -->
+    <dimen name="score_num_font_size">56sp</dimen>
+</resources>

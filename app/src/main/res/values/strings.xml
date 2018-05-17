@@ -1,0 +1,18 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Football Score Counter</string>
+
+    <!-- Score buttons -->
+    <string name="home_team">Home</string>
+    <string name="touch_down_button">Touch down</string>
+    <string name="extra_point_button">Extra point</string>
+    <string name="field_goal_button">Field goal</string>
+    <string name="conversion_safety_button">Conversion/Safety</string>
+
+    <!-- Teams and scores -->
+    <string name="guests_team">Guests</string>
+    <string name="reset_button">reset</string>
+    <string name="home_team_score">0</string>
+    <string name="guests_team_score">0</string>
+    <string name="background_football_ball">Football ball for the background</string>
+</resources>
